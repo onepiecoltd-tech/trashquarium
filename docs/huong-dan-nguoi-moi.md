@@ -47,8 +47,12 @@ Cá giá từ **20** đến **300 CBCoin**. Cá rẻ thì bé xíu, cá đắt t
 
 - Mỗi trứng trừ giá bán của **cả hai** bố mẹ một lần giá mua gốc. Đẻ càng nhiều bán càng rẻ, nhưng không bao giờ rẻ hơn giá mua gốc.
 - Mỗi trứng nở với tỷ lệ **5–20%**: cá rẻ dễ nở (20%), cá đắt khó nở (5%). Trứng không nở vẫn bị tính.
-- Mọi trứng vào **Hang trứng** (có tab riêng, và một vũng nước nhỏ viền sỏi ở giữa đáy bể trên desktop), ấp **2–3 tiếng** mới nở, mỗi quả có đồng hồ đếm ngược. Game tắt vẫn tính giờ.
+- Mọi trứng vào **Hang trứng** (có tab riêng; trên desktop trứng nằm ngay trên cát ở giữa đáy bể), ấp **2–3 tiếng** mới nở, mỗi quả có đồng hồ đếm ngược. Game tắt vẫn tính giờ.
 - Cá con ra đời là Lv.0, ghi rõ đời thứ mấy, và lại bắt đầu từ đầu. Trứng đến giờ mà bể đầy thì nằm chờ trong hang đến khi có chỗ.
+
+## 🦈 Gửi tiết kiệm ở quầy Cá Mập
+
+Dư CBCoin? Vào tab **Gửi tiết kiệm**, chọn kỳ hạn và số CBCoin. Lãi **9% mỗi ngày**, cộng dồn theo kỳ hạn: 1 ngày +9%, 3 ngày +27%, 7 ngày +63%, 14 ngày +126%, 30 ngày +270% (tối đa 50.000 CBCoin lãi mỗi sổ, tối đa 10 sổ). Đến hạn bấm **Tất toán** để nhận cả gốc lẫn lãi. Rút trước hạn thì chỉ nhận lại gốc, và Cá Mập sẽ hơi buồn. Đừng chỉ "chờ vài hôm nữa anh qua em gửi tiết kiệm nha" nhé!
 
 ## 😌 Yên tâm
 
